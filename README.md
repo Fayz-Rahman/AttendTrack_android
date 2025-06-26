@@ -33,12 +33,15 @@ This project is a native Android application built entirely in **Java** and util
 * **Concurrency**: `ExecutorService` and `Handler` are used to perform database operations on a background thread, ensuring the UI remains responsive.
 
 ## Getting Started
+### Download
+[![Latest Release](https://img.shields.io/github/v/release/Fayz-Rahman/AttendTrack_android)](https://github.com/Fayz-Rahman/AttendTrack_android/releases)
 
+### Build
 To build and run this project yourself, follow these steps:
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git)
+    git clone https://github.com/Fayz-Rahman/AttendTrack_android.git
     ```
 2.  **Open in Android Studio:**
     * Open the latest stable version of Android Studio.
