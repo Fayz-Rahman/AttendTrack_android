@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AttendTrack</string>
+    <string name="back_button_description">Go back</string>
+</resources>
