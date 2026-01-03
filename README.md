@@ -52,3 +52,6 @@ To build and run this project yourself, follow these steps:
 4.  **Run the App:**
     * Select a target device (emulator or physical device running Android 9.0 Pie or newer).
     * Click `Run > Run 'app'`.
+
+## Acknowledgments
+This project is tested with BrowserStack
